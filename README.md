@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Byoung Jin]!
 
-<!--
-**supernode25/supernode25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm a passionate **Robot software developer** who loves **Development of Autonomous Driving Algorithms**.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Tech Badge](https://img.shields.io/badge/-Language1-333?logo=Language1&logoColor=white)
+![Tech Badge](https://img.shields.io/badge/-Language2-333?logo=Language2&logoColor=white)
+![Tech Badge](https://img.shields.io/badge/-Tool1-333?logo=Tool1&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YourProfile)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://yourblog.com)
+
+---
+⭐️ From [YourUsername](https://github.com/YourUsername)
