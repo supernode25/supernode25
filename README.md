@@ -1,11 +1,5 @@
 
-Welcome to my GitHub profile! 🚀  
-I'm a passionate **Backend Developer** who loves **building robust and scalable applications**.
 
-- 🌱 I’m currently learning **Kubernetes, System Design**
-- 💬 Ask me about **Java, Spring Boot, Django**
-- 📫 How to reach me: **supernode25@example.com**  <!--(이메일 수정 가능)-->
-- ⚡ Fun fact: **I enjoy solving algorithm problems in my free time!**
 
 ## 🛠 Tech Stacks
 
@@ -29,12 +23,10 @@ I'm a passionate **Backend Developer** who loves **building robust and scalable 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📈 Most Used Languages
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernode25&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernode25&layout=compact&theme=tokyonight)
 
 ## 📊 GitHub Stats
-<!-- GitHub stats -->
-![supernode25's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernode25&show_icons=true&theme=dark)
+![supernode25's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernode25&show_icons=true&theme=tokyonight)
 
 ---
 ⭐️ From [supernode25](https://github.com/supernode25)
