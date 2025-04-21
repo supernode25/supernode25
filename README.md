@@ -17,5 +17,4 @@
 ## 📊 GitHub Stats
 ![supernode25's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernode25&show_icons=true&theme=tokyonight)
 
----
-⭐️ From [supernode25](https://github.com/supernode25)
+
