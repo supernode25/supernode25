@@ -11,10 +11,11 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supernode25&layout=compact&theme=tokyonight)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=supernode25&show_icons=true&theme=github_dark" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supernode25&layout=compact&theme=github_dark" height="200"/>
 
-## 📊 GitHub Stats
-![supernode25's GitHub stats](https://github-readme-stats.vercel.app/api?username=supernode25&show_icons=true&theme=tokyonight)
+</div>
 
 
