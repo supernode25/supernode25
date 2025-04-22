@@ -8,8 +8,9 @@
   <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/ROS1-121C28?style=for-the-badge&logo=ros&logoColor=white" alt="ROS1">
-  <img src="https://img.shields.io/badge/ROS2-121C28?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
+  <img src="https://img.shields.io/badge/ROS1-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS1">
+  <img src="https://img.shields.io/badge/ROS2-000000?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
+
 
 
 </div>
