@@ -1,6 +1,6 @@
 
 
-## 🛠 Tech Stacks
+## 🛠 Core Technologies
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/C-003366?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C">
 
