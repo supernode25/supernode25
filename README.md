@@ -2,7 +2,8 @@
 
 ## 🛠 Tech Stacks
 <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/C++-00599B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C-003366?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C">
+
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white" alt="Java">
